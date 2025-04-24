@@ -1,0 +1,27 @@
+{
+"name": "jo-ai-backend",
+"version": "1.0.0",
+"description": "Backend for JO-A.I. application",
+"main":
+"server.js"
+"scripts": {
+"start":
+"node server.js"
+"dev": "nodemon server.js"
+} ,
+"dependencies": {
+"berypt": "^5.1.0",
+"cors": "^2.8.5"
+/
+"dotenv": "^16.0.3"
+"express": "^4.18.2"
+"jsonwebtoken" :
+"ng.0.o",
+"mongoose":
+"^7.0.3"
+"openai":
+"^3.2.1"
+"stripe": "^11.16.'"
+"devDependencies"：｛
+"nodemon": "^2.0.22"
+}
