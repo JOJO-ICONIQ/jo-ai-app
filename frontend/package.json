@@ -1,0 +1,31 @@
+"name": "jo-ai-frontend",
+"version":
+"1.0.0"
+"description": "Frontend for JO-A.I. application"
+"private": true,
+"dependencies": {
+"@emotion/react": "^11.10.6"
+"emotion/styled": "^11.10.6"
+"(mui/material": "^5.11.14"
+"@stripe/react-stripe-js":
+"^2.1.0"
+"@stripe/stripe-js":
+"21.52.0
+"axios":
+"^1.3.4"
+"react": "^18.2.0"
+"react-dom" :
+"^18.2.0"
+"react-router-dom" :
+"^6.9.0"
+scripts": {
+"start":
+"vite"
+"build":
+"vite build"
+"preview": "vite preview"
+} ,
+"devDependencies": {
+"@vitejs/plugin-react": "^3.1.0",
+"vite": "^4.2.1"
+}
